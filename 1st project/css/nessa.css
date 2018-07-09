@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    background-image: url("../images/pic 2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 251, 0);
+    font-size: 25px;
+    background-color: rgb(250, 7, 7);
+    margin-left:9%;
+    padding:20px 15px 10px 8px;
+    margin-right: 50%;
+    text-align: center;
+
+}
+img{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.one{
+    width: 50%;
+    margin:10%;
+    color: rgba(207, 243, 10, 0.95);
+}
